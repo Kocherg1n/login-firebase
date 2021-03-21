@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdf2405a-1a83-444a-8a18-fe27aef48c04" name="Default Changelist" comment="" />
+    <list default="true" id="cdf2405a-1a83-444a-8a18-fe27aef48c04" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AddProject.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AlertError.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CustomModal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ProjectCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/authSlice.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/projectsSlice.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Auth.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Projects.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,8 +36,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="TypeScript JSX File" />
         <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
@@ -37,10 +62,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src/features" />
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -55,6 +92,8 @@
       <workItem from="1615820890113" duration="2000" />
       <workItem from="1615820917084" duration="21137000" />
       <workItem from="1615847608266" duration="3000" />
+      <workItem from="1616174061413" duration="7821000" />
+      <workItem from="1616232155517" duration="68129000" />
     </task>
     <servers />
   </component>
@@ -62,13 +101,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="500" height="445" key="SwitcherDM" timestamp="1615846848068">
+    <state x="576" y="332" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616181715970">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/0.0.1680.1050@0.0.1680.1050" timestamp="1615846848068" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1615841548919">
+    <state x="576" y="332" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1616181715970" />
+    <state x="349" y="161" key="SettingsEditor" timestamp="1616319032200">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1615841548919" />
+    <state x="349" y="161" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1616319032200" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1616366790212">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.0.1680.1050@0.0.1680.1050" timestamp="1616366790212" />
+    <state x="503" y="282" width="674" height="486" key="find.popup" timestamp="1616360269774">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="503" y="282" width="674" height="486" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1616360269774" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1616359951148">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1616359951148" />
   </component>
 </project>
